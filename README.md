@@ -1,4 +1,4 @@
 #Instructions DEMO
 
-URL: https://vercel.com/jodesesp/server24-7-aternos
+URL: https://server24-7-aternos.vercel.app/
 
